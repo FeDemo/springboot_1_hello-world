@@ -1,4 +1,4 @@
-# springboot_1_helloword
+# springboot_1_hello world
 springboot demo
 
 >hello world  
@@ -29,8 +29,8 @@ public class DemoApplication {
 ```
 >index  
 
-![](https://raw.githubusercontent.com/FeDemo/springboot_1_helloword/master/imgs/1.png)
+![](https://raw.githubusercontent.com/FeDemo/springboot_1_hello-world/master/imgs/2.png)
 
 >json   
 
-![](https://raw.githubusercontent.com/FeDemo/springboot_1_helloword/master/imgs/2.png)
+![](https://raw.githubusercontent.com/FeDemo/springboot_1_hello-world/master/imgs/1.png)
