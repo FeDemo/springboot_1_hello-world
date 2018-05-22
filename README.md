@@ -3,7 +3,7 @@ springboot demo
 
 >hello world  
 
-```
+```java
 @RestController
 @SpringBootApplication
 public class DemoApplication {
